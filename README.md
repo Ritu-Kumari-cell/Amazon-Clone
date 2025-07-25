@@ -1,50 +1,60 @@
-# Amazon Homepage Clone 🛒
-
-This is a fully responsive clone of the Amazon homepage built using **HTML** and **CSS**. The project mimics the structure and design of Amazon's front page, including the navigation bar, search bar, product grid, hero section, and footer.
+🛒 Amazon Homepage Clone  
+A responsive Amazon homepage clone built using HTML and CSS. This project replicates the layout and design of Amazon's official homepage, including the navbar, hero section, product boxes, and footer.
 
 ---
 
-## 🔧 Technologies Used
+📁 Files Included
+
+📄 **index.html**  
+The main HTML file that structures the Amazon homepage. It includes:
+
+- Navigation bar with logo, location, search bar, sign-in, and cart  
+- Hero banner section with a promotional message  
+- Product category boxes with images and titles  
+- Footer with a “Back to Top” feature
+
+🎨 **style.css**  
+Contains all styling rules to recreate the Amazon homepage look. Includes:
+
+- Flexbox layout and spacing utilities  
+- Font styles, colors, and button hover effects  
+- Grid layout for product boxes  
+- Responsive behavior with basic structure
+
+---
+
+🖼️ Assets Required
+
+- `amazon_logo.png` for the navbar logo  
+- `hero-img.jpg` for the main banner  
+- `box1_image.jpg` to `box8_image.jpg` for product categories  
+- `favicon.png` for browser tab icon  
+
+📍 All images are local files and should be placed in the project folder.
+
+---
+
+🛠️ Technologies Used
 
 - HTML5  
-- CSS3  
+- CSS3 (Flexbox, basic Grid)  
 - Font Awesome (for icons)
 
 ---
 
-## 📁 Features
+⚙️ How It Works
 
-- Responsive navigation bar with logo, location, search bar, and cart icon  
-- Hero section with promotional banner  
-- Grid layout showcasing product categories  
-- Interactive hover effects  
-- Clean footer design
+This is a static front-end project with no backend or dynamic functionality. Here's how it works:
 
----
-
-## 💡 How It Works
-
-The project is static and built using front-end technologies only. It simulates the layout and user interface of Amazon.com. No backend functionality is included.
+- Open `index.html` in your browser to view the Amazon UI layout  
+- The layout adjusts to different screen sizes for basic responsiveness  
+- Hover effects and font styling create an interactive user experience  
+- Assets like product images and logos are loaded from local files
 
 ---
 
-## 🚀 Getting Started
+👩‍💻 Author  
+Created by **Ritu Kumari**  
+GitHub:Ritu-Kumari-cell
 
-To run this project locally:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Ritu-Kumari-cell/amazon-clone.git
-2. **Navigate to the project folder**
-<br>
-cd amazon-clone
-<br>
-Open the project in your browser
-<br>
-Just double-click the index.html file, or right-click and choose "Open with" → your browser
-<br>
-👩‍💻 Author
-<br>
-Ritu Kumari
-<br>
-GitHub: Ritu-Kumari-cell
+---

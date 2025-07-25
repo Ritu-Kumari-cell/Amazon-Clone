@@ -36,8 +36,11 @@ To run this project locally:
    ```bash
    git clone https://github.com/Ritu-Kumari-cell/amazon-clone.git
 2. **Navigate to the project folder**
-  cd amazon-clone
+<br>
+cd amazon-clone
+<br>
 Open the project in your browser
+<br>
 Just double-click the index.html file, or right-click and choose "Open with" → your browser
 <br>
 👩‍💻 Author
